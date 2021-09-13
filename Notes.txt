@@ -1,0 +1,3 @@
+// service - Buisness Logic 
+// util - constants , util methods , helper methods ( common to all) like login,logout
+//junit package :- calling code - which will call service 
